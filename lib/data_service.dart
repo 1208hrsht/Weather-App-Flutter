@@ -8,7 +8,7 @@ class DataService {
 
     final queryParameters = {
       'q': city,
-      'appid': 'b165379501f9d2917eadc46eff05c4d5',
+      'appid': 'OpenWeatherAPI here',
       'units': 'metric'
     };
 
