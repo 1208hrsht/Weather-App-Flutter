@@ -1,16 +1,31 @@
-# weather_app
+# Weather Application
 
-A new Flutter project.
+Developed using Flutter, Dart and OpenWeather API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Extensive UI
+- Weather Information Displayed according to User's location.
+- Temperature and it's corresponding icon is displayed.
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- google_fonts: To access all fonts provided by googlefonts
+- http: To make individual HTTP requests
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tools
+
+- Flutter v2.11.1 SDK
+- Dart 2.12.2
+- Editor (VS Code or Android Studio)
+
+## Instructions
+
+All dart scripts are located inside the lib folder.
+
+To run this app on a virtual machine (mobile emulator), your android device or your web browser, just clone the project, open your terminal inside that folder and use this command:
+
+```
+flutter run
+```
+Enable USB Debugging if you're using an Android device
